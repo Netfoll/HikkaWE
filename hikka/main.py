@@ -58,7 +58,7 @@ from telethon.sessions import SQLiteSession, MemorySession
 from . import database, loader, utils, version
 from .dispatcher import CommandDispatcher
 from .translations import Translator
-from .version import __version__
+from .version import __version__, we_version
 from .tl_cache import CustomTelegramClient
 
 try:
@@ -557,13 +557,14 @@ class Hikka:
                         █ █ █ █ █ █ █ █▀█    ██ ██  █▄▄                             
                     
                      • Version Hiika: {'.'.join(list(map(str, list(__version__))))}
-                     • Windows Edition Version: 1.2
+                     • Windows Edition Version: {'.'.join(list(map(str, list(we_version))))}
                      """
 
             if not self.omit_log:
                 print(logo1)
                 logging.info(
-                    "🌘 Hikka WE %s started",
+                    "🌘 Hikka WE %s (%s) started",
+                    ".".join(list(map(str, list(we_version)))),
                     ".".join(list(map(str, list(__version__)))),
                 )
                 self.omit_log = True

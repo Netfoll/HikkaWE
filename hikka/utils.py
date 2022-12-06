@@ -1393,4 +1393,14 @@ def get_version_raw() -> str:
     return ".".join(map(str, list(version.__version__)))
 
 
+def get_we_version_raw() -> str:
+    """
+    Get WE version of the userbot
+    :return: Version in format %s.%s.%s
+    """
+    from . import version
+
+    return ".".join(map(str, list(version.we_version)))
+
+
 get_platform_name = get_named_platform
