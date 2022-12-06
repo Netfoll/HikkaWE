@@ -238,7 +238,7 @@ class HikkaRestartMod(loader.Module):
         """Links the source code of this project"""
         await utils.answer(
             message,
-            self.strings("source").format("https://t.me/HikkaWE/3"),
+            self.strings("source").format("https://github.com/MXRRI/HikkaWE"),
         )
 
     async def client_ready(self):
