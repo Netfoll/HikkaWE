@@ -123,7 +123,7 @@ class HikkaInfoMod(loader.Module):
             self._me.id,
             utils.escape_html(get_display_name(self._me)),
         )
-        build = utils.get_commit_url()
+        build = "Windows Edition"
         _version = f'<i>{".".join(list(map(str, list(version.__version__))))}</i>'
         we_version = f'<i>{".".join(list(map(str, list(version.we_version))))}</i>'
         prefix = f"«<code>{utils.escape_html(self.get_prefix())}</code>»"
@@ -151,7 +151,7 @@ class HikkaInfoMod(loader.Module):
                 "<b>{}</b>\n\n"
                 f'<b>{{}} {self.strings("owner")}: </b>{me}\n\n'
                 f"<b>{{}} {self.strings('version')}: </b>{we_version} ({_version})\n"
-                f"<b>{{}} {self.strings('branch')}: </b><code>Windows {build}</code>\n\n"
+                f"<b>{{}} <b>{build}</b>\n\n"
                 #f"{upd}\n\n"
                 f"<b>{{}} {self.strings('prefix')}: </b>{prefix}\n"
                 f"<b>{{}} {self.strings('uptime')}: </b>{utils.formatted_uptime()}\n"
