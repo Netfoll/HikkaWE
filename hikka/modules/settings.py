@@ -89,6 +89,7 @@ class CoreMod(loader.Module):
             " <b>Hikka-TL: </b><i>{}</i>\n\n<emoji"
             " document_id=5454182070156794055>⌨️</emoji> <b>Developer:"
             " t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "confirm_cleardb": "⚠️ <b>Are you sure, that you want to clear database?</b>",
         "cleardb_confirm": "🗑 Clear database",
@@ -172,6 +173,7 @@ class CoreMod(loader.Module):
             " <b>Hikka-TL: </b><i>{}</i>\n\n<emoji"
             " document_id=5454182070156794055>⌨️</emoji> <b>Developer:"
             " t.me/hikariatama</b>"
+            "\n\n😭 Поддержка HikkaWE окончена 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "Управление базовыми настройками юзербота",
         "confirm_cleardb": "⚠️ <b>Вы уверены, что хотите сбросить базу данных?</b>",
@@ -256,6 +258,7 @@ class CoreMod(loader.Module):
             " <b>Hikka-TL: </b><i>{}</i>\n\n<emoji"
             "document_id=5454182070156794055>⌨️</emoji> <b>Entwickler:"
             "t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "Verwaltung der Grundeinstellungen des Userbots",
         "confirm_cleardb": (
@@ -341,6 +344,7 @@ class CoreMod(loader.Module):
             " <b>Hikka-TL: </b><i>{}</i>\n\n<emoji"
             "document_id=5454182070156794055>⌨️</emoji> <b>Geliştirici:"
             "t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "Userbot temel ayar yönetimi",
         "confirm_cleardb": (
@@ -427,6 +431,7 @@ class CoreMod(loader.Module):
             " <b>हिक्का-टीएल: </b><i>{}</i>\n\n<emoji"
             "document_id=5454182070156794055>⌨️</emoji> <b>डेवलपर:"
             "t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "Userbot मूलभूत सेटिंग प्रबंधन",
         "confirm_cleardb": "⚠️ <b>क्या आप वाकई डेटाबेस को रीसेट करना चाहते हैं?</b>",
@@ -511,6 +516,7 @@ class CoreMod(loader.Module):
             " document_id=5233346091725888979>⚙️</emoji> <b>Hikka-TL:"
             " </b><i>{}</i>\n\n<emojidocument_id=5454182070156794055>⌨️</emoji>"
             " <b>Ishlab chiquvchi: t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "Userbot asosiy sozlamalarini boshqarish",
         "confirm_cleardb": (
@@ -599,6 +605,7 @@ class CoreMod(loader.Module):
             " document_id=5233346091725888979>⚙️</emoji> <b>Hikka-TL:"
             " </b><i>{}</i>\n\n<emojidocument_id=5454182070156794055>⌨️</emoji>"
             " <b>開発者: t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "ユーザーボットの基本設定を管理します",
         "confirm_cleardb": "⚠️ <b>データベースをリセットしますか？</b>",
@@ -664,6 +671,7 @@ class CoreMod(loader.Module):
             " document_id=5233346091725888979>⚙️</emoji> <b>Hikka-TL:"
             " </b><i>{}</i>\n\n<emojidocument_id=5454182070156794055>⌨️</emoji>"
             " <b>개발자: t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "사용자 봇의 기본 설정을 관리합니다",
         "confirm_cleardb": "⚠️ <b>데이터베이스를 초기화 하시겠습니까?</b>",
@@ -731,6 +739,7 @@ class CoreMod(loader.Module):
             " document_id=5233346091725888979>⚙️</emoji> <b>Hikka-TL:"
             " </b><i>{}</i>\n\n<emojidocument_id=5454182070156794055>⌨️</emoji>"
             " <b>المطور: t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "الإعدادات الأساسية لمستخدم البوت",
         "confirm_cleardb": "⚠️ <b>هل تريد مسح قاعدة البيانات؟</b>",
@@ -787,6 +796,7 @@ class CoreMod(loader.Module):
             " document_id=5233346091725888979>⚙️</emoji> <b>Hikka-TL:"
             " </b><i>{}</i>\n\n<emojidocument_id=5454182070156794055>⌨️</emoji>"
             " <b>Desarrollador: t.me/hikariatama</b>"
+            "\n\n😭 HikkaWE support is over 👉🏻 t.me/NetfollUB/280/31780"
         ),
         "_cls_doc": "Los ajustes básicos del usuario del bot",
         "confirm_cleardb": "⚠️ <b>¿Quieres borrar la base de datos?</b>",

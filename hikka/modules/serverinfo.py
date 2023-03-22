@@ -47,7 +47,7 @@ class serverInfoMod(loader.Module):
             " {cpu} Cores {cpu_load}%</b>\n<emoji"
             " document_id=5210727866232218958>🎚</emoji> <b>RAM: {ram} / {ram_load_mb}MB"
             " ({ram_load}%)</b>\n\n"
-            "<emoji document_id=5211044070314484953>💿</emoji> <b>Kernel: {kernel}</b>\n{arch_emoji} <b>Arch: {arch}</b>\n<emoji"
+            "<emoji document_id=5211044070314484953>💿</emoji> <b>Kernel: NT {kernel}</b>\n{arch_emoji} <b>Arch: {arch}</b>\n<emoji"
             " document_id=5213347100498075719>💿</emoji> <b>OS: {os}</b>\n\n<emoji"
             " document_id=5211049786915955236>🤖</emoji> <b>Python: {python}</b>"
         ),
@@ -64,7 +64,7 @@ class serverInfoMod(loader.Module):
             " {cpu} ядер(-ро) {cpu_load}%</b>\n<emoji"
             " document_id=5210727866232218958>🎚</emoji> <b>RAM: {ram} / {ram_load_mb}MB"
             " ({ram_load}%)</b>\n\n"
-            "<emoji document_id=5211044070314484953>💿</emoji> <b>Kernel: {kernel}</b>\n{arch_emoji} <b>Arch: {arch}</b>\n<emoji"
+            "<emoji document_id=5211044070314484953>💿</emoji> <b>Kernel: NT {kernel}</b>\n{arch_emoji} <b>Arch: {arch}</b>\n<emoji"
             " document_id=5213347100498075719>💿</emoji> <b>OS: {os}</b>\n\n<emoji"
             " document_id=5211049786915955236>🤖</emoji> <b>Python: {python}</b>"
         ),

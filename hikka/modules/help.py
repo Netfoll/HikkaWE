@@ -48,7 +48,7 @@ class HelpMod(loader.Module):
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 No docs",
         "support": (
-            "{} <b>Link to </b><a href='https://t.me/hikkawe_support'>support chat</a></b>"
+            "{} <b>Link to </b><a href='https://t.me/NetfollUB'>support chat</a></b>"
         ),
         "partial_load": (
             "<emoji document_id=5472105307985419058>☝️</emoji> <b>Userbot is not"
@@ -87,7 +87,7 @@ class HelpMod(loader.Module):
         "ihandler": "\n🎹 <code>{}</code> {}",
         "undoc_ihandler": "🦥 Нет описания",
         "support": (
-            "{} <b>Ссылка на </b><a href='https://t.me/hikkawe_support'>чат помощи</a></b>"
+            "{} <b>Ссылка на </b><a href='https://t.me/NetfollUB'>чат помощи</a></b>"
         ),
         "_cls_doc": "Показывает помощь по модулям",
         "partial_load": (
